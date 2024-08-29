@@ -97,6 +97,10 @@ The HBMS aims to improve the efficiency of bed management by:
   - Ensure authenticity to prevent fraudulent requests.
   - Approve valid registrations and add hospitals to the system.
 
+## Use Case Diagrams
+
+![Use Case Diagram 1](images/UsecaseDiagram.png)
+![Use Case Diagram 2](images/diagram.PNG)
 ## Installation
 
 1. **Clone the Repository:**

@@ -12,6 +12,8 @@ The HBMS aims to improve the efficiency of bed management by:
 - Enhancing hospital resource management.
 - Reducing administrative delays and paperwork.
 
+## Flow Chart
+![Application Flow Chart](images/flowchart.JPG)
 ## App Features
 
 ### 1. User Registration and Login

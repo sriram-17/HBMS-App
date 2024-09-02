@@ -105,4 +105,4 @@ The HBMS aims to improve the efficiency of bed management by:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/sriram-17/HBMS.git
+   git clone https://github.com/sriram-17/HBMS-App.git
